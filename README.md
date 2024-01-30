@@ -17,8 +17,8 @@ Clone the repository
 Follow the documentation for seamless integration
 
 📖 Resources:
-<a href="" target="blank"><p>Documentation</p></a>
-<a href="" target="blank"><p>Issue Tracker</p></a>
-<a href="" target="blank"><p>Community Forum</p></a>
+<a href="url">Documentation</a>
+<a href="url">Issue Tracke</a>
+<a href="url">Community Forum</a>
 
 🔐 Secure your edge computing environments with EdgeSecurity-API!
